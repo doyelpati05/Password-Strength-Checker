@@ -27,6 +27,8 @@ Welcome to **Password-Strength-Checker** – a smart Java-based tool developed b
 ## 📸 Sample Output
 
 
+![Image](https://github.com/user-attachments/assets/12bf811a-36e5-4f2f-97ae-553ac437f00f)
+
 
 
 
